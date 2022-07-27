@@ -17,4 +17,4 @@ cd termux-setup-
 
 ls
 
-python2 run.py
+python setup.py
